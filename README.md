@@ -18,3 +18,7 @@ Se ejectuta el workflow y se comprueba que se ejecuta correctamente la custom ac
 ![image](https://github.com/user-attachments/assets/b4b7ce7b-403d-4b24-b876-58cefe301eb0)
 
 ![image](https://github.com/user-attachments/assets/c95dc5b5-387a-4deb-8bba-e80c7915ca61)
+
+Workflow ejecutado correctamente:
+
+![image](https://github.com/user-attachments/assets/c8691a61-fc79-4d74-8d5e-c61e1340ddbe)
